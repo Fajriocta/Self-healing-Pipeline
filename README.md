@@ -42,5 +42,5 @@ Five samples, each in a different state:
 
 ## Guessing the column names
 
-If `.env` has a key in it, the script asks an LLM (Ollama Cloud). That's what
+the script asks an LLM (Ollama Cloud). That's what
 handles Indonesian columns like `nilai` turning into `purchase_amount`.
