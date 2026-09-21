@@ -1,11 +1,11 @@
-# rahasia
+
 .env
 
-# python
+
 .venv/
 __pycache__/
 *.py[cod]
 
-# hasil runtime, bisa dibuat ulang dengan init_db.py
+
 database/*.db
 data/quarantine/*.csv
