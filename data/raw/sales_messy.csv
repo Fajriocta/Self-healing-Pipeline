@@ -1,0 +1,6 @@
+trxID,Customer Mail,grossAmount,order_dt,notes
+TRX-3001,lina@example.com,210000,2026-09-15,promo
+TRX-3002,bukan-email,75000,2026-09-15,
+TRX-3003,fajar@example.com,abc,2026-09-16,retur
+TRX-3004,tono@example.com,130000,tanggal-rusak,
+TRX-3005,wati@example.com,64000,2026-09-17,

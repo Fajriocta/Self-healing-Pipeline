@@ -1,0 +1,4 @@
+transaction_id,customer_email,purchase_amount,purchase_date,customer_name,city,segment
+TRX-1001,budi@example.com,150000,2026-09-01,Budi Santoso,Jakarta,retail
+TRX-1002,siti@example.com,89000,2026-09-02,Siti Rahayu,Bandung,retail
+TRX-1003,agus@example.com,240500,2026-09-02,Agus Wijaya,Surabaya,grosir

@@ -1,0 +1,6 @@
+transaction_id,customer_email,purchase_amount,purchase_date
+TRX-4001,budi@example.com,175000,2026-09-18
+TRX-4002,rina@example.com,89000,2026-09-18
+TRX-4003,lina@example.com,412000,2026-09-19
+TRX-4004,agus@example.com,67500,2026-09-19
+TRX-4005,nomor-baru@example.com,55000,2026-09-20
